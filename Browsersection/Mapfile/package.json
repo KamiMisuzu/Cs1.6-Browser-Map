@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "chalk": "^2.4.2",
+    "nodejs-websocket": "^1.7.2",
+    "readline-sync": "^1.4.10"
+  }
+}
